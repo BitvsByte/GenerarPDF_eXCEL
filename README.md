@@ -1,4 +1,4 @@
-#PDF and Excel creator with PHP
+# PDF and Excel creator with PHP
 
 I' ve developed a small script to create a JSON file and store in it data collected in a form..
 Using the button Create PDF data from this file will be converted to PDF format as well as with the button Create Excel the JSON file is formatted to EXCEL.
